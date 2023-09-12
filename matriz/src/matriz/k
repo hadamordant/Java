@@ -1,0 +1,44 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package matriz;
+
+/**
+ *
+ * @author salon2
+ */
+public class profesor {
+    private String nombre, apellido;
+    private String V[];
+    public profesor(){
+        nombre="";
+        apellido="";
+        V=new String[0];
+       }  
+    public profesor(String nombre, String apellido){
+        this.nombre=nombre;
+        this.apellido=apellido;
+        V=new String[0];
+       }  
+    public void getNombre(String nombre){
+        this.nombre= nombre;
+    }
+    public String setNombre(){
+        return (this.nombre);
+    }
+    public void getApellido(String apellido){
+        this.apellido=apellido;
+         }
+    public String setApellido(){
+        return (this.apellido)
+    }
+    public String[] CrearMateria(){
+        int[] aux;
+        int i;
+        System.out.println("Ingrese numero de materias")
+        int n= Integer.parseInt(en.readLine());
+        String aux[]= new String[n];
+    }
+}

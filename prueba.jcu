@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>dos</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>dos</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>dos\relacion</path>
+				<dir>relacion</dir>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>dos\relacion\dos.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>clase uno 14abril\uno.java.sdk</path>
+			<symbols>
+				<symbol>uno</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>dos\relacion\dos.java.sdk</path>
+			<symbols>
+				<symbol>dos</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

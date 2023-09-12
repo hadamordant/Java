@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>prueba</label>
+		<id>122</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>prueba.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>dos\dos.jcp</path>
+		</project>
+	</projects>
+</workspace>
